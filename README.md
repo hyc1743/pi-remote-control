@@ -68,3 +68,4 @@ Terminate with `SIGINT` or `SIGTERM`. The state directory contains `push-gateway
 - `docs/interfaces.md` — daemon public API and TUI control integration contract.
 - `docs/data-model.md` — daemon state, pairing, device, active session, and stream structures.
 - `docs/adr/` — accepted daemon decisions.
+test
